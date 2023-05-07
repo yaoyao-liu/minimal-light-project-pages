@@ -1,0 +1,32 @@
+# Basic Information 
+title: Online Hyperparameter Optimization for Class-Incremental Learning
+conference: Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023
+conference_link: https://aaai-23.aaai.org/
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: true
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+paper_link: https://arxiv.org/pdf/2301.05032.pdf
+code_link: https://github.com/yaoyao-liu/online-hyperparameter-optimization/
+slides_link: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/files/slides.pdf
+poster_link: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/files/poster.pdf
+video_link: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/files/video.mp4
+
+# Images 
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnote
+enable_copyright: true
+copyright_year: 2023
+copyright_name: Johns Hopkins University
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE

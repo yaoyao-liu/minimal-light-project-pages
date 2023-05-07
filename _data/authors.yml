@@ -1,0 +1,33 @@
+authors:
+  - name: Yaoyao Liu
+    link: "https://yyliu.net"
+    affiliation_number: 1, 2
+
+  - name: Yingying Li
+    link: "https://yingying.li/"
+    affiliation_number: 3
+
+  - name: Bernt Schiele
+    link: "https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/"
+    affiliation_number: 1
+
+  - name: Qianru Sun
+    link: "https://qianrusun.com/"
+    affiliation_number: 4
+
+affiliations:
+  - name: Max Planck Institute for Informatics
+    link: https://www.mpi-inf.mpg.de/
+    affiliation_number: 1
+
+  - name: Johns Hopkins University
+    link: https://cs.jhu.edu/
+    affiliation_number: 2
+
+  - name: California Institute of Technology 
+    link: https://www.cms.caltech.edu/
+    affiliation_number: 3
+
+  - name: Singapore Management University   
+    link: https://www.smu.edu.sg/
+    affiliation_number: 4
