@@ -40,8 +40,8 @@ First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyll
 Then, clone this repository:
 
 ```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
+git clone https://github.com/yaoyao-liu/minimal-light-project-pages.git
+cd minimal-light-project-pages
 ```
 Install and run:
 
