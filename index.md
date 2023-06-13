@@ -30,6 +30,6 @@ Please cite our paper if it is helpful to your work:
 ```
 
 
-## Citation
+## Contact
 
 If you have any questions, please feel free to contact us via email: <yliu538@jhu.edu>.
